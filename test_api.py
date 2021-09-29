@@ -11,3 +11,9 @@ def test_send_dialog():
     sd = SendDialog(mw)
     assert isinstance(sd, SendDialog)
 
+<<<<<<< HEAD
+=======
+def test_mutliplication():
+    exp = 2 * 2
+    assert exp == 4
+>>>>>>> development
