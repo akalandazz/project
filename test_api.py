@@ -12,5 +12,5 @@ def test_send_dialog():
     assert isinstance(sd, SendDialog)
     
 def test_addition():
-    expresion = 1 + 1
+    expresion = 10 + 1
     assert expresion == 2
