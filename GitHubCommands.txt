@@ -1,0 +1,42 @@
+git add . - daamatebs kvela fails rac aris foldershi
+git commit -m "your message" - daaqomitebs, anu sheinaxavs
+git push - atvirtavs githubze
+
+
+
+git status - geubneba ra mdgomareobaa. sheidzleba commit-i gqondes gaketebuli magram git push-i gqondes daviwkebuli
+
+git pull - komanda aris git push-is piriqit. chamotvirtavs githubidan kods da chvens kompiutershi arsebul kods gadaaketebs
+		misi sashualebit shegvidzlia vnaxot uaxlesi versia githubze. magalitad meore dges shevalt chvens proeqtze 
+		tu vinmem kodi daamata gavigebt radgan chveni kodi kompiutershic sheicvleba.
+
+
+
+"""Merge conflict""" - ewodeba rodesac mec da sxva developeri erti da imave lainze shevitant cvilebas, am dros git-ma ariciis romels
+			mianichos upiratesoba. am dros kodis failshi gveqneba shemdegi saxis shedegi
+			def test_addition():
+				<<<<<<< HEAD
+                        	expresion = 1 + 10  - ==== tolia nishnebit gamosaxuli aris chveni cvlileba
+                        	=======
+                        	expresion = 10 + 1  - >>> heshit gamosaxuli aris sxva developeris cvlileba.
+                        	>>>>>>> 732884640adf575b94ed2d37085b9c4758c31a17
+                        	assert expresion == 2
+			amdros shegvidzlia davelaparakot meore developers da saerto shetanxmebamde mividet romeli davtgovot.
+			sabolood wavshalot is kodi romelic argvind da xelaxla gavaketot commit-i
+
+
+git log - gvichvenebs kvela cvlilebebs rac gavaketet chvens repository-shi, rodis gavaketet commit-ebi, vin aris avtori commit-is da a.sh
+
+git rest - sashualebas gvadzlevs dzvel versias davubrundet chveni kodis. vtqvat ramodenime commit-is mere tu gvinda wina commitze davbrundet.
+	mag: tu gvinda davubrundet konkretul commit-s(versias) amisatvis git log-it movdzebnot im versiis heshi davakopirot da gavushvat
+	reste commanda. rogoricaa git reset --hard 520146132bd66dee8ed8e5ed94e55b2b882ab0aa
+
+
+HEAD - termini tua master branchtan es nishnavs rom master branchhi vart.
+
+
+git branch - gveubneba romel branchshi vart.
+
+git checkout -b development - sheqmnis axal branch-s saxelad development da gadava amave branchshi amavdroulad.
+
+git checkout - gadava erti arsebuli branchidan meoreshi: mag git checkout master- i amdros git-i development branchidan gadava master-shi

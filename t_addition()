@@ -1,0 +1,40 @@
+[33mcommit ee78eaadd87e9e4c832b018c1f00b4b7dfb1d694[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 29c13da 7328846
+Author: = <=>
+Date:   Wed Sep 29 21:17:01 2021 +0400
+
+    fix merge conflict
+
+[33mcommit 732884640adf575b94ed2d37085b9c4758c31a17[m
+Author: Amiran <52857687+akalandazz@users.noreply.github.com>
+Date:   Wed Sep 29 21:11:02 2021 +0400
+
+    added expresion = 10 + 1
+    
+    someohe added
+
+[33mcommit 29c13da0e55f2a36789a366acb6e0a3a61c84ae9[m
+Author: = <=>
+Date:   Wed Sep 29 21:10:34 2021 +0400
+
+    added expression = 1 + 10
+
+[33mcommit 05de1345b73e1f2103df23539ad138debe4b211d[m
+Author: Amiran <52857687+akalandazz@users.noreply.github.com>
+Date:   Wed Sep 29 20:57:42 2021 +0400
+
+    added test_addition() test
+    
+    Another developer from group added test_addition() test function
+
+[33mcommit 520146132bd66dee8ed8e5ed94e55b2b882ab0aa[m
+Author: = <=>
+Date:   Wed Sep 29 20:53:32 2021 +0400
+
+    I added send dialog test
+
+[33mcommit 412bde14848aff5a149213b217ab0a39c2e1a7fd[m
+Author: = <=>
+Date:   Wed Sep 29 20:41:07 2021 +0400
+
+    I added new project
