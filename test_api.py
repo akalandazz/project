@@ -11,7 +11,3 @@ def test_send_dialog():
     sd = SendDialog(mw)
     assert isinstance(sd, SendDialog)
 
-
-def test_multiplication():
-    expression = 2 * 2
-    assert expression == 4
