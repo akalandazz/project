@@ -10,3 +10,7 @@ def test_send_dialog():
     mw = MainWindow()
     sd = SendDialog(mw)
     assert isinstance(sd, SendDialog)
+    
+def test_addition():
+    expresion = 1 + 1
+    assert expresion == 2
